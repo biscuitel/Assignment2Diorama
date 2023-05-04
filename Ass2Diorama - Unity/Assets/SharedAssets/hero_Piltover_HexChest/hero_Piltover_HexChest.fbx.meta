@@ -3,7 +3,17 @@ guid: 4aac8352e3f9d9f4aa2cc20069b0c63e
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hero_Piltover_HexChest_Gold_Mat
+    second: {fileID: 2100000, guid: 1d1b605933ea5bc44ab2e39909ea100b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hero_Piltover_HexChest_Wood_Mat
+    second: {fileID: 2100000, guid: 2c482af702f0f4244a0b5a9a4a5b54d8, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
