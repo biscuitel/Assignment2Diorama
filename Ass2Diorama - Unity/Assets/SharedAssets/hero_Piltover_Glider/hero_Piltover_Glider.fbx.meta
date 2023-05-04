@@ -3,7 +3,17 @@ guid: 480af7a2ef0493746acd3abdfd8a9342
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hero_Oiltover_Glider_Body_mat
+    second: {fileID: 2100000, guid: bab80b89aee82914b8401349bd76c900, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hero_Piltover_Glider_Wing_mat
+    second: {fileID: 2100000, guid: ed566f63d21ddb84b93f32eb1a4a8841, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
